@@ -12,3 +12,4 @@ console.log(NaN !== 2);
 console.log(NaN == NaN);
 console.log(NaN === NaN);
 ```
+Rattanon Tunwittaya
